@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\bin\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\bin\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\bin\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\bin\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.runtimeconfig.dev.json
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\bin\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\bin\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\Herencia-carlos-y-julian\Ejemplo de herencia Carlos Morris y Julian Monroy\obj\Debug\netcoreapp3.1\Ejemplo de herencia Carlos Morris y Julian Monroy.genruntimeconfig.cache
